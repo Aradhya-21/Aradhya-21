@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 **Hi there 👋, My name is Aradhya Srivastava**<br><br>I’m a software developer who enjoys turning problems into clean, logical, and efficient code. I focus on building strong fundamentals while continuously improving through hands-on practice, debugging, and real-world mini projects.<br><br>I work with Python, JavaScript, HTML, CSS, MySQL and MongoDB, and I’m comfortable moving across frontend, backend, and core programming concepts. I spend a lot of time strengthening my understanding of DSA, OOPs, DBMS, and Cloud Computing, especially from system-thinking perspective.<br><br>I believe good code is not just about working solutions, but about clarity, structure, and scalability. When something fails, I dig into the root cause instead of applying quick fixes — learning why something works matters to me as much as how.<br><br>I enjoy building, breaking, fixing, and optimizing code. Always learning, always improving
 
