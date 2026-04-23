@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on AI/ML and full-stack projects, with a focus on building real-world solutions like HeartSense — a heart disease prediction system.<br><br>🤝 I’m looking to collaborate on Machine Learning and innovative web application projects.<br><br>🆘 I’m looking for help with cloud deployment, model optimization, and scalable backend architecture.<br><br>🌱 I’m currently learning CI/CD pipelines, and applied Machine Learning.<br><br>💬 Ask me about Python, Machine Learning, ASP.NET Core, SQL, GitHub, and project development.<br><br>⚡ Fun fact: I enjoy transforming real-world problems into practical tech solutions through AI and development.
+💻 I’m currently working on AI/ML and full-stack projects, with a focus on building real-world solutions like HeartSense — a heart disease prediction system.<br><br>🤝 I’m looking to collaborate on Machine Learning and innovative web application projects.<br><br>🆘 I’m looking for help with cloud deployment, model optimization, and scalable backend architecture.<br><br>🌱 I’m currently learning CI/CD pipelines, and applied Machine Learning.<br><br>💬 Ask me about Python, Machine Learning, SQL, GitHub, and project development.<br><br>⚡ Fun fact: I enjoy transforming real-world problems into practical tech solutions through AI and development.
 
 
 ## 🌐 Socials:
